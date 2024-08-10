@@ -1,0 +1,2 @@
+# SUV Purchase Prediction using Logistic Regression
+ This project is a Python implementation of a logistic regression model aimed at predicting the likelihood of purchasing an SUV. The model is trained using features such as age and estimated salary, and its performance is evaluated using various metrics. The dataset is sourced from the 'suv_data.csv' file, and the model's accuracy is analyzed through ROC curves and other performance metrics. This project serves as a fundamental example for those looking to get started with machine learning projects.
